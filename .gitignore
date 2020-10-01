@@ -1,0 +1,5 @@
+# Hide History files of Altium Designer
+Scheme/Linelance_Rev1/History
+
+# Hide all files starts "~$"
+**/~$*.*
