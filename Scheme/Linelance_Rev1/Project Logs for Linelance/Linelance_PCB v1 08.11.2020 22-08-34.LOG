@@ -1,0 +1,226 @@
+Removed Pin From Net: NetName=NetR2_2 Pin=BOOT0-3
+Removed Pin From Net: NetName=AVCC_3V3 Pin=C15-1
+Removed Pin From Net: NetName=AGND Pin=C15-2
+Removed Pin From Net: NetName=VCC_5V_IN Pin=P1-1
+Removed Pin From Net: NetName=SWDIO Pin=P1-2
+Removed Pin From Net: NetName=SWCLK Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=SCL Pin=P1-5
+Removed Pin From Net: NetName=SDA Pin=P1-6
+Removed Pin From Net: NetName=AVCC_3V3 Pin=R3-1
+Removed Pin From Net: NetName=PA7 Pin=R8-1
+Removed Pin From Net: NetName=PA6 Pin=R9-1
+Removed Pin From Net: NetName=PA5 Pin=R10-1
+Removed Pin From Net: NetName=PA4 Pin=R11-1
+Removed Pin From Net: NetName=PA3 Pin=R12-1
+Removed Pin From Net: NetName=PA2 Pin=R13-1
+Removed Pin From Net: NetName=PA1 Pin=R14-1
+Removed Pin From Net: NetName=PA0 Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=RESET-3
+Removed Pin From Net: NetName=PA7 Pin=U5-1
+Removed Pin From Net: NetName=PA6 Pin=U6-1
+Removed Pin From Net: NetName=PA5 Pin=U7-1
+Removed Pin From Net: NetName=PA4 Pin=U8-1
+Removed Pin From Net: NetName=PA3 Pin=U9-1
+Removed Pin From Net: NetName=PA2 Pin=U10-1
+Removed Pin From Net: NetName=PA1 Pin=U11-1
+Removed Pin From Net: NetName=PA0 Pin=U12-1
+Removed Member From Class: ClassName=Schematic_page3 Member=C15
+Removed Member From Class: ClassName=Schematic_page1 Member=C23
+Removed Member From Class: ClassName=Schematic_page2 Member=C23
+Change Component Comment : Designator=C14 Old Comment=0.1 uF New Comment=0.01 uF
+Change Component Comment : Designator=C9 Old Comment=4.7 uF New Comment=100 pF
+Change Component Comment : Designator=C12 Old Comment=100 pF New Comment=4.7 uF
+Change Component Designator: OldDesignator=BOOT0 NewDesignator=SF1
+Change Component Designator: OldDesignator=C9 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=RESET NewDesignator=SF2
+Change component parameters: Designator = "DA1" ("DA1"); Footprint = "SOT-23-5"; UniqueID = "\TOTGERVF" ("\TOTGERVF")
+Change component parameters (AddParameter): Name = "Case"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/tps73033dbvr-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "TPS73033DBVR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "TANT-A"; UniqueID = "\MLJZLGAE" ("\MLJZLGAE")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/12712"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "China"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R0603"; UniqueID = "\YMWEEPXG" ("\YMWEEPXG")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000079624"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R0603"; UniqueID = "\SWZXPSCH" ("\SWZXPSCH")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000079624"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R0603"; UniqueID = "\ISQQMHQY" ("\ISQQMHQY")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000079624"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "R0603"; UniqueID = "\YTMAULGG" ("\YTMAULGG")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000079624"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "R0603"; UniqueID = "\NGRDSPYH" ("\NGRDSPYH")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000079624"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "R0603"; UniqueID = "\MSLAJYDL" ("\MSLAJYDL")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000079624"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "R0603"; UniqueID = "\XPRGKVUZ" ("\XPRGKVUZ")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000079624"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "R0603"; UniqueID = "\MGUQLICD" ("\MGUQLICD")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000079624"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R0603"; UniqueID = "\OEJMMDBE" ("\OEJMMDBE")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/65097"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R0603"; UniqueID = "\OYMVWATV" ("\OYMVWATV")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/65097"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R0603"; UniqueID = "\KFFFVOLN" ("\KFFFVOLN")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/65097"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R0603"; UniqueID = "\AZSLFOTK" ("\AZSLFOTK")
+Change component parameters (AddParameter): Name = "Case"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/65097"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BOOT0" ("SF1"); Footprint = "KMR221GLFS"; UniqueID = "\AVYHIEYL" ("\AVYHIEYL")
+Change component parameters (AddParameter): Name = "Case"; Value = "KMR221GLFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/kls7-ts3401-2-5-180-tvaf11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "KLS7-TS3401- 2,5-180(TVAF11)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RESET" ("SF2"); Footprint = "KMR221GLFS"; UniqueID = "\JSPXVTEI" ("\JSPXVTEI")
+Change component parameters (AddParameter): Name = "Case"; Value = "KMR221GLFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/kls7-ts3401-2-5-180-tvaf11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "KLS7-TS3401- 2,5-180(TVAF11)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C9"); Footprint = "C0603"; UniqueID = "\BJXIKYUQ" ("\BJXIKYUQ")
+Change component parameters (AddParameter): Name = "Case"; Value = "Ñ0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000193550"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "X5R 10% 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "C0603"; UniqueID = "\PFLEUFXP" ("\PFLEUFXP")
+Change component parameters (AddParameter): Name = "Case"; Value = "Ñ0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/9000143994"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "X7R 10% 50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C0603"; UniqueID = "\DWGSKFSO" ("\DWGSKFSO")
+Change component parameters (AddParameter): Name = "Case"; Value = "Ñ0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/grm1885c1h101j"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "NP0 5% 50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=P1-1
+Added Pin To Net: NetName=SCL Pin=P1-2
+Added Pin To Net: NetName=VCC_5V_IN Pin=P1-3
+Added Pin To Net: NetName=SWDIO Pin=P1-4
+Added Pin To Net: NetName=SWCLK Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=PA7 Pin=Q2-2
+Added Pin To Net: NetName=PA6 Pin=Q3-2
+Added Pin To Net: NetName=PA5 Pin=Q4-2
+Added Pin To Net: NetName=PA4 Pin=Q5-2
+Added Pin To Net: NetName=PA3 Pin=Q6-2
+Added Pin To Net: NetName=PA2 Pin=Q7-2
+Added Pin To Net: NetName=PA1 Pin=Q8-2
+Added Pin To Net: NetName=PA0 Pin=Q9-2
+Added Pin To Net: NetName=VDD Pin=R3-1
+Added Pin To Net: NetName=PA7 Pin=U5-4
+Added Pin To Net: NetName=PA6 Pin=U6-4
+Added Pin To Net: NetName=PA5 Pin=U7-4
+Added Pin To Net: NetName=PA4 Pin=U8-4
+Added Pin To Net: NetName=PA3 Pin=U9-4
+Added Pin To Net: NetName=PA2 Pin=U10-4
+Added Pin To Net: NetName=PA1 Pin=U11-4
+Added Pin To Net: NetName=PA0 Pin=U12-4
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC18_1
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC21_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U5-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U6-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U7-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U8-1
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U9-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U10-1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U11-1
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U12-1
+Added Net: Name=NetR15_1
+Change Class Name : Old Net Name=Schematic_page1 New Net Name=Linelance_Schematic_page1
+Change Class Name : Old Net Name=Schematic_page2 New Net Name=Linelance_Schematic_page2
+Change Class Name : Old Net Name=Schematic_page3 New Net Name=Linelance_Schematic_page3
+Added Member To Class: ClassName=Linelance_Schematic_page1 Member=Component C9 4.7 uF
+Added Member To Class: ClassName=Linelance_Schematic_page1 Member=Component C10 0.1 uF
+Added Member To Class: ClassName=Linelance_Schematic_page1 Member=Component C11 0.01 uF
+Added Member To Class: ClassName=Linelance_Schematic_page1 Member=Component C12 100 pF
+Added Member To Class: ClassName=Linelance_Schematic_page1 Member=Component C13 1 uF
+Added Member To Class: ClassName=Linelance_Schematic_page1 Member=Component C16 100 pF
+Added Member To Class: ClassName=Linelance_Schematic_page2 Member=Component C17 15 pF
+Added Member To Class: ClassName=Linelance_Schematic_page2 Member=Component C18 15 pF
+Added Member To Class: ClassName=Linelance_Schematic_page2 Member=Component C19 0.1 uF
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component C20 0.1 uF
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component C21 4.7 uF
+Added Member To Class: ClassName=Linelance_Schematic_page2 Member=Component P1 Header 6
+Added Member To Class: ClassName=Linelance_Schematic_page2 Member=Component R1 430 1%
+Added Member To Class: ClassName=Linelance_Schematic_page2 Member=Component R2 10 k
+Added Member To Class: ClassName=Linelance_Schematic_page2 Member=Component R3 10 k
+Added Member To Class: ClassName=Linelance_Schematic_page2 Member=Component R4 10 k
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component R7 10 k
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component R8 200 R
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component R9 200 R
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component R10 200 R
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component R11 200 R
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component R12 200 R
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component R13 200 R
+Added Member To Class: ClassName=Linelance_Schematic_page3 Member=Component R14 200 R
+Added Member To Class: ClassName=Linelance_Schematic_page2 Member=Component Y1 24.0000MHZ
