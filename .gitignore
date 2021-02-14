@@ -5,5 +5,10 @@ Scheme/Library/History
 # Hide logs of Altium Designer
 Scheme/Linelance/Project Logs for Linelance
 
+# Hide previes of Altium Designer
+Scheme/Linelance/__Previews
+
 # Hide all files starts "~$"
 **/~$*.*
+
+
